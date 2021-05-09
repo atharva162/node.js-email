@@ -8,7 +8,7 @@ I have used Nodemailer for sending mails which is a module for Node.js to send e
 1. A form consisting of the input fields:- 
       sender's mail address,
       subject and text message of the mail.
-2. A server running on port 3000 which enables the mail form validation and sending of mail.
+2. A server running on port 3000 which consists of mail form validation and sending of mail.
 
 ### Steps to run this repository
 
